@@ -1,0 +1,6 @@
+{
+  "name": "Daily, Weekly & Monthly System",
+  "description": "Minimalist, aesthetic planning and habit tracking system designed to organize your days, unchaos your weeks, and visualize monthly progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
